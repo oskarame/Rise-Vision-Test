@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/oskarame/Rise-Vision-Test">
-    <img src="logo.png" alt="Logo" width="200">
+    <img src="images/logo.png" alt="Logo" width="200">
   </a>
 
   <h3 align="center">Rise Vision Test - Osman Karame</h3>
@@ -52,4 +52,4 @@ Project Link: [https://github.com/oskarame/Rise-Vision-Test](https://github.com/
 
 
 [linkedin-url]: https://linkedin.com/in/oskarame
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpg
